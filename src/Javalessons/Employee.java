@@ -12,7 +12,7 @@ public class Employee {
 	public static void main(String[] args) {
 		Employee employeeDetails = new Employee();
 		employeeDetails.name = "Satish";
-		employeeDetails.age = 35;
+		employeeDetails.age = 36;
 		System.out.println(employeeDetails.name);
 		System.out.println(employeeDetails.age);
 	}
